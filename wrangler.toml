@@ -3,12 +3,4 @@ compatibility_date = "2024-11-11"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
-[env.production.vars]
-GITHUB_CLIENT_ID = "Ov23liI79Rx5eh0aYlLb"
-GITHUB_OWNER = "dragonfigoo"
-GITHUB_REPO = "navsphere-data"
-GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://navsphere-6nj.pages.dev"
-AUTH_URL = "https://navsphere-6nj.pages.dev"
-NEXT_PUBLIC_API_URL="https://navsphere-6nj.pages.dev"
 
